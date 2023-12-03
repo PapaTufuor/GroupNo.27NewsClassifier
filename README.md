@@ -19,4 +19,4 @@ Open the terminal in the location where the app.py file is stored.
 Run the command: streamlit run app.py.
 Once the app is running, enter the URL of the news article or add a document/paste text to classify its authenticity.
 
-**Demo Link**
+**Demo Link**: https://youtu.be/x_2euAjAxQE
