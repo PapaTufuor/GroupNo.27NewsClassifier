@@ -10,7 +10,9 @@ Change CSV Directory: Update the directory path of the CSV files in the Colab no
 
 **app.py**
 Update Tokenizer and Model Paths: Modify the paths to the pickled tokenizer and model in the app.py file to match your local directory.
-Running the Streamlit App
+
+
+**Running the Streamlit App**
 To run the Streamlit app:
 
 Open the terminal in the location where the app.py file is stored.
